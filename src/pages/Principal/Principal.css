@@ -1,0 +1,34 @@
+.Frase{
+    text-align: center;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.cdiv {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    justify-content: center;
+}
+
+.cdiv :nth-child(n) {
+    margin: 10%;
+}
+
+.imagenp{
+    height: 150px;
+    padding: 0.5em;
+}
+
+.boton {
+    text-align: center;
+}
+
+button{
+    background-color: #2ea338aa;
+    border-radius: 8px;
+    align-items: center;
+    font-size: 16px;
+    padding: 12px 28px;
+}

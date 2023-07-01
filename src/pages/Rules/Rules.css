@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+.board{
+    max-width: 50%;
+    margin: auto;
+}
+
+.box {
+    max-width: 50%;
+    margin: auto;
+    margin-top: 150px;
+    background-color: #2ea338aa;
+    overflow: hidden;
+    height: 200 px;
+    max-height: 35vh;
+    box-shadow: 0px 12px 18px -6px rgba(0,0,0,0.3);
+    border-radius: 10px 10px 10px 10px;
+    padding: 50px;
+}
+
+.grids{
+    max-width: 50%;
+    margin: auto;
+}

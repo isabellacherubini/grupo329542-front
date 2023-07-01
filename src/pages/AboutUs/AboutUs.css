@@ -1,0 +1,18 @@
+.perfil {
+    align-content: center;
+    margin: 10%;
+}
+
+.container {
+    display: flex;
+    padding: 5%;
+    flex-wrap: wrap;
+}
+
+.item {
+    margin: auto;
+}
+
+.imgabout {
+    height: 200px;
+}
